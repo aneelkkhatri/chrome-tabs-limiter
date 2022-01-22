@@ -1,2 +1,2 @@
 # chrome-tabs-limiter
-Google Chrome extension to limit number of tabs that can be opened.
+Google Chrome extension to limit the number of tabs that can be opened.
